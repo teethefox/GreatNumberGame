@@ -1,0 +1,26 @@
+body{
+    padding-top:10%;
+    text-align:center;
+    font-size:1.5em
+}
+#wrong{
+    background-color:red;
+    width:40%;
+    height:250px;
+    padding-top:5%;
+    color:white;
+    text-shadow:2px 2px black;
+    margin:auto;
+     box-shadow: 10px 14px 18px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#correct{
+    background-color:limegreen;
+      width:40%;
+    height:250px;
+    padding-top:5%;
+    color:white;
+    text-shadow:2px 2px black;
+    margin:auto;
+    box-shadow: 10px 14px 18px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
